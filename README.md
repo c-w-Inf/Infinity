@@ -1,3 +1,3 @@
-# There is a little bug about the UI. That happens when you hold a weapon and try to reload.
+# There is a little bug about the UI. 
 # Acknowledgements to: Superchang & Tischchen
 # QQ group id: 834502790
