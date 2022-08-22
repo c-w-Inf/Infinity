@@ -1,3 +1,3 @@
-# There is a little bug about the UI. The player.png & playerCD.png is too big to suit the collision.
+# There is a little bug about the UI. The campfire_onground.png hasn't been updated yet.
 # Acknowledgements to: @superchang8866 & Tischchen
 # QQ group id: 834502790
